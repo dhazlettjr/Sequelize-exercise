@@ -1,0 +1,16 @@
+{
+  "lifeguards": [
+    {
+      "name": "Jason David Frank",
+      "beachId": 1
+    },
+    {
+      "name": "Ohi Mark",
+      "beachId": 2
+    },
+    {
+      "name": "Darth Vader",
+      "beachId": 3
+    }
+  ]
+}

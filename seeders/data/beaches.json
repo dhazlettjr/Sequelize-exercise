@@ -1,0 +1,24 @@
+{
+  "beaches": [
+    {
+      "name": "Orange Beach",
+      "location": "Alabama",
+      "sand_rating": 1
+    },
+    {
+      "name": "Coco Beach",
+      "location": "Florida",
+      "sand_rating": 3
+    },
+    {
+      "name": "Long Beach",
+      "location": "Calfornia",
+      "sand_rating": 2
+    },
+    {
+      "name": "Myrtle Beach",
+      "location": "South Carolina",
+      "sand_rating": 5
+    }
+  ]
+ }

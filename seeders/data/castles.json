@@ -1,0 +1,28 @@
+{
+  "castles": [
+    {
+      "name": "Black",
+      "description": "Lord Commander",
+      "beachId": 1,
+      "toolId": 2
+    },
+    {
+      "name": "Winterfell",
+      "description": "The Starks",
+      "beachId": 2,
+      "toolId": 1
+    },
+    {
+      "name": "Dragonstone",
+      "description": "Dragon Glass",
+      "beachId": 3,
+      "toolId": 1
+    },
+    {
+      "name": "Eastwatch",
+      "description": "Destroyed by the night king",
+      "beachId": 4,
+      "toolId": 1
+    }
+  ]
+}
